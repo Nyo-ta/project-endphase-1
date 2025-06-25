@@ -30,4 +30,9 @@ This is a simple web application that allows users to search for dog breeds usin
    - Temperament
    - Life span
    - Purpose it was bred for
+##Author
+   samuel nyota
+##Lisence
+  MIT
+
 
