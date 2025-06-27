@@ -26,8 +26,6 @@ function serverhandler(query){
     })
 }
 
-// console.log(forminput)
-
 function renderposts(breed){
     const card = document.createElement('li')
     const list = document.getElementById('dog-list')
